@@ -1,1 +1,12 @@
-# syn2real
+# Integrating Expert Knowledge with Domain Adaptation for Unsupervised Fault Diagnosis
+To appear in IEEE Transactions on Instrumentation and Measurement. [PDF](https://arxiv.org/abs/2107.01849)
+
+
+## Data
+
+
+## Code
+
+
+
+## Reference
