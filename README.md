@@ -7,8 +7,7 @@ In this repository, we provide the readers with the synthetic CWRU data set. We 
 
 ### Download Links
 + [Dataset](https://github.com/qinenergy/syn2real/releases)
-  + [Our Synthetic CWRU](https://github.com/qinenergy/syn2real/releases/download/data/cwru_synthetic.parquet)
-  + [Real CWRU](https://github.com/qinenergy/syn2real/releases/download/data/cwru.parquet) | [Original author's link](https://engineering.case.edu/bearingdatacenter/download-data-file)
+  + [Our parquet for the proposed synthetic CWRU dataset including meta data](https://github.com/qinenergy/syn2real/releases/download/data/cwru_synthetic.parquet)
 + [Google Colab](https://colab.research.google.com/drive/1o-8ETOG-ej3HxVl4lvNJN8D0G6734bu7?usp=sharing)
 
 ### Structure
@@ -42,3 +41,6 @@ If you use our dataset or find our code helpful, please consider citing our pape
   year={2021}
 }
 ```
+
+## Acknowledgement
+[Links from Case Western Reserve University for the original CWRU dataset](https://engineering.case.edu/bearingdatacenter/download-data-file)
