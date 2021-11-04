@@ -5,8 +5,11 @@ To appear in IEEE Transactions on Instrumentation and Measurement. [PDF](https:/
 ## Introduction
 In this repository, we provide the synthetic CWRU data set. We generate the synthetic faults by injecting experts' understanding on fault patterns to the healthy signals.
 
-### Data Download
-[dataset](https://github.com/qinenergy/syn2real/releases)
+### Download Links
++ [Dataset](https://github.com/qinenergy/syn2real/releases)
+  + [Real CWRU](https://github.com/qinenergy/syn2real/releases/download/data/cwru.parquet) | [Original author's link](https://engineering.case.edu/bearingdatacenter/download-data-file)
+  + [Our Synthetic CWRU](https://github.com/qinenergy/syn2real/releases/download/data/cwru_synthetic.parquet)
++ [Google Colab](https://colab.research.google.com/drive/1o-8ETOG-ej3HxVl4lvNJN8D0G6734bu7?usp=sharing)
 
 ### Structure
 ```
