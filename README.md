@@ -36,3 +36,13 @@ We generate a synthetic bearing dataset for the syn2real experiments. The Synthe
 ## Code
 We provide a google colab research notebook for readers to better under our method. You can play with it [here](https://colab.research.google.com/drive/1o-8ETOG-ej3HxVl4lvNJN8D0G6734bu7?usp=sharing).
 
+## Reference
+If you use our dataset or find our code helpful, please consider citing our paper:
+```
+@article{wang2021integrating,
+  title={Integrating Expert Knowledge with Domain Adaptation for Unsupervised Fault Diagnosis},
+  author={Wang, Qin and Taal, Cees and Fink, Olga},
+  journal={IEEE Transactions on Instrumentation and Measurement},
+  year={2021}
+}
+```
