@@ -29,10 +29,6 @@ In this repository, we provide the synthetic CWRU data set. We generate the synt
 
 Example code to read and preprocess the parquet files are provided in data/preprocess.py 
 
-
-## Synthetic Data for CWRU bearings
-We generate a synthetic bearing dataset for the syn2real experiments. The Synthetic CWRU dataset is free to use for research purpose. 
-
 ## Code
 We provide a google colab research notebook for readers to better under our method. You can play with it [here](https://colab.research.google.com/drive/1o-8ETOG-ej3HxVl4lvNJN8D0G6734bu7?usp=sharing).
 
