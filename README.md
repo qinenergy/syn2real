@@ -27,6 +27,12 @@ In this repository, we provide the readers with the synthetic CWRU data set. We 
 ```
 
 Example code to read and preprocess the parquet files are provided in data/preprocess.py 
+```
+# pip install pandas
+# pip install pyarrow
+import pandas as pd
+df = pd.read_parquet('cwru_synthetic.parquet', engine='pyarrow')
+```
 
 ## Code
 We provide a google colab research notebook for readers to better under our method. You can play with it [here](https://colab.research.google.com/drive/1o-8ETOG-ej3HxVl4lvNJN8D0G6734bu7?usp=sharing).
