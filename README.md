@@ -1,5 +1,5 @@
 # Integrating Expert Knowledge with Domain Adaptation for Unsupervised Fault Diagnosis
-To appear in IEEE Transactions on Instrumentation and Measurement. [PDF](https://arxiv.org/abs/2107.01849)
+IEEE Transactions on Instrumentation and Measurement, 2021. [DOI](https://doi.org/10.1109/TIM.2021.3127654) [PDF](https://arxiv.org/abs/2107.01849)
 
 
 ## Introduction
