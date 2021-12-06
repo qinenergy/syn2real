@@ -3,7 +3,7 @@ IEEE Transactions on Instrumentation and Measurement, 2021. [DOI](https://doi.or
 
 
 ## Introduction
-In this repository, we provide the readers with the synthetic CWRU data set. We generate the synthetic faults by injecting experts' understanding on fault patterns to the healthy signals. Details can be found in the paper.
+In this repository, we provide the readers with the synthetic CWRU data set as well as the domain adaptation code. We generate the synthetic faults by injecting experts' understanding on fault patterns to the healthy signals. Details can be found in the paper.
 
 ### Download Links
 + [Dataset](https://github.com/qinenergy/syn2real/releases)
