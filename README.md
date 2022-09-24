@@ -7,8 +7,9 @@ In this repository, we provide the readers with the synthetic CWRU data set as w
 
 ### Download Links
 + [Dataset](https://github.com/qinenergy/syn2real/releases)
-  + [Our parquet for the proposed synthetic CWRU dataset including meta data](https://github.com/qinenergy/syn2real/releases/download/data/cwru_synthetic.parquet)
-+ [Google Colab](https://colab.research.google.com/drive/1o-8ETOG-ej3HxVl4lvNJN8D0G6734bu7?usp=sharing)
+  + [The full proposed synthetic CWRU dataset including meta data, in parquet format](https://github.com/qinenergy/syn2real/releases/download/data/cwru_synthetic.parquet)
+  + [Pre-processed synthetic CWRU dataset without meta data, in numpy format](https://github.com/qinenergy/syn2real/releases/tag/data)
++ [Google Colab for examples](https://colab.research.google.com/drive/1o-8ETOG-ej3HxVl4lvNJN8D0G6734bu7?usp=sharing)
 
 ### Structure
 ```
